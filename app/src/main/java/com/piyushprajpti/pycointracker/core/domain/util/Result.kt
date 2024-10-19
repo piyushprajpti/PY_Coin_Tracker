@@ -1,4 +1,4 @@
-package com.piyushprajpti.pycointracker.util
+package com.piyushprajpti.pycointracker.core.domain.util
 
 typealias DomainError = Error
 

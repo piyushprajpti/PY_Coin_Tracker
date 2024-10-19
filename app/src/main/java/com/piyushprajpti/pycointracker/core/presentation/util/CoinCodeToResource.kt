@@ -1,4 +1,4 @@
-package com.piyushprajpti.pycointracker.util
+package com.piyushprajpti.pycointracker.core.presentation.util
 
 import com.piyushprajpti.pycointracker.R
 
